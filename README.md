@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ## I'm a psychologist that loves programming! 
 
-Psychologist passionate about IT world, apprentice in web development, with solid knowledge of HTML, CSS, Javascript and Python. With skills in problem solving and knowledge in Mathematics, Algebra and statistics.
+Psychologist passionate about programming, on my way to become a web developer, with solid knowledge of HTML, CSS, Javascript and Python. With skills in problem solving, soft skills such as teamwork  and a deep knowledge in Mathematics, Algebra and statistics.
 
 ### Some tecnologies I have experience:
 
